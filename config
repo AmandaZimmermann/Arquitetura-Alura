@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[user]
+	name = Amanda
+	email = amanda.zdar@gmail.com
+[remote "origin"]
+	url = https://github.com/AmandaZimmermann/Arquitetura-Alura.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
